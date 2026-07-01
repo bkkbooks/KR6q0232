@@ -1,0 +1,810 @@
+canonical_identifier: bkk:krp/KR6q0232/v1
+canonical_location: https://kanripo.org/bkk/KR6q0232/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 高峰三山來禪師疏語
+  identifiers:
+    alt_id:
+    - J39nB439
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J39/J39nB439.xml
+    old_id: J39nB439
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: 嘉興-CB
+  label: 嘉興-CB
+  source_xml_id: wit1
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0232_000.yaml, hash: 'sha256:90fcb9689942284d5022457d6456c8247f62a2fad77ba75a4673c859714da762'}
+  - {seq: 1, filename: KR6q0232_001.yaml, hash: 'sha256:6b5c44b71cee0c66b525ddd66d4a135ee2c78c592112ecb935f6526afbfccf13'}
+  - {seq: 2, filename: KR6q0232_002.yaml, hash: 'sha256:af809d5cc1d0afbd1e1baac754fec45825808e7ce8c46b6930332fecfa298355'}
+  - {seq: 3, filename: KR6q0232_003.yaml, hash: 'sha256:dbffc7bb6a63d1236ec4f654fc9443714647f520ff603e067e38ab861d2a0f79'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0232_000.markers.yaml, hash: 'sha256:26750dbbf28ed78b74e8096b4e4598ffbb56841c05ba0232b34a08f451e7695e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0232_001.markers.yaml, hash: 'sha256:b88c015f8bcae74363f92b8376536b103945adb37e66e1eb19a0ea4ecc028950'}
+  - {seq: 2, role: markers, filename: assets/KR6q0232_002.markers.yaml, hash: 'sha256:f4936bbf01ac16189ddfc46a1fc01faebea25c968d7e22b1ae19d246c8af4b32'}
+  - {seq: 3, role: markers, filename: assets/KR6q0232_003.markers.yaml, hash: 'sha256:01f58f482c059a7201c4185f3cef4e7d746cbf1b2d5eb0e91280ff6fbb07e5be'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0232_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7229
+  label: 三山來禪師疏語卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 表一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 賀元旦表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-3
+    span:
+    - body
+    - 311
+    - 311
+  label: 慶天官表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-4
+    span:
+    - body
+    - 578
+    - 578
+  label: 慶地官表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-5
+    span:
+    - body
+    - 863
+    - 863
+  label: 慶水官表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-6
+    span:
+    - body
+    - 1134
+    - 1134
+  label: 慶佛誕表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-7
+    span:
+    - body
+    - 1437
+    - 1437
+  label: 佛成道表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-8
+    span:
+    - body
+    - 1728
+    - 1728
+  label: 結制進表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-9
+    span:
+    - body
+    - 2057
+    - 2057
+  label: 解制表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-10
+    span:
+    - body
+    - 2396
+    - 2396
+  label: 解制表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-11
+    span:
+    - body
+    - 2758
+    - 2758
+  label: 解制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-12
+    span:
+    - body
+    - 2977
+    - 2977
+  label: 解制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-13
+    span:
+    - body
+    - 3148
+    - 3148
+  label: 懺期修薦表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-14
+    span:
+    - body
+    - 3490
+    - 3490
+  label: 諷華嚴經表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-15
+    span:
+    - body
+    - 3815
+    - 3815
+  label: 諷華嚴表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-16
+    span:
+    - body
+    - 4111
+    - 4111
+  label: 諷法華表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-17
+    span:
+    - body
+    - 4412
+    - 4412
+  label: 禮梁皇表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-18
+    span:
+    - body
+    - 4758
+    - 4758
+  label: 然天燭意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-19
+    span:
+    - body
+    - 4924
+    - 4924
+  label: 建盂蘭會意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-20
+    span:
+    - body
+    - 5158
+    - 5158
+  label: 建盂蘭會意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-21
+    span:
+    - body
+    - 5383
+    - 5383
+  label: 建盂蘭表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-22
+    span:
+    - body
+    - 5696
+    - 5696
+  label: 藥師表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-23
+    span:
+    - body
+    - 5983
+    - 5983
+  label: 金剛表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-24
+    span:
+    - body
+    - 6275
+    - 6275
+  label: 彌陀表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-25
+    span:
+    - body
+    - 6599
+    - 6599
+  label: 觀音聖誕表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0232_J_001-mulu-26
+    span:
+    - body
+    - 6886
+    - 6886
+  label: 地藏表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 6574
+  label: 三山來禪師疏語卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 表二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 文昌表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-3
+    span:
+    - body
+    - 338
+    - 338
+  label: 祝聖帝秩
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-4
+    span:
+    - body
+    - 701
+    - 701
+  label: 祝韋馱表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-5
+    span:
+    - body
+    - 980
+    - 980
+  label: 瑜伽表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-6
+    span:
+    - body
+    - 1304
+    - 1304
+  label: 修因表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-7
+    span:
+    - body
+    - 1611
+    - 1611
+  label: 酬願表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-8
+    span:
+    - body
+    - 1908
+    - 1908
+  label: 植福修因填還寄庫表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-9
+    span:
+    - body
+    - 2267
+    - 2267
+  label: 酬天悔過表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-10
+    span:
+    - body
+    - 2594
+    - 2594
+  label: 平安意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-11
+    span:
+    - body
+    - 2826
+    - 2826
+  label: 懺經意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-12
+    span:
+    - body
+    - 3033
+    - 3033
+  label: 悔過修因意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-13
+    span:
+    - body
+    - 3266
+    - 3266
+  label: 賑濟意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-14
+    span:
+    - body
+    - 3489
+    - 3489
+  label: 利幽意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-15
+    span:
+    - body
+    - 3746
+    - 3746
+  label: 彌陀會意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-16
+    span:
+    - body
+    - 3990
+    - 3990
+  label: 薦師弟意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-17
+    span:
+    - body
+    - 4220
+    - 4220
+  label: 建虎醮意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-18
+    span:
+    - body
+    - 4466
+    - 4466
+  label: 表盤米意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-19
+    span:
+    - body
+    - 4672
+    - 4672
+  label: 祈雨意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-20
+    span:
+    - body
+    - 4897
+    - 4897
+  label: 薦師弟意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-21
+    span:
+    - body
+    - 5122
+    - 5122
+  label: 祈雨意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-22
+    span:
+    - body
+    - 5434
+    - 5434
+  label: 禳蟲蝗意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-23
+    span:
+    - body
+    - 5714
+    - 5714
+  label: 避亂砦居請水意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-24
+    span:
+    - body
+    - 5979
+    - 5979
+  label: 寄名禳關意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0232_J_002-mulu-25
+    span:
+    - body
+    - 6223
+    - 6223
+  label: 釋子修因表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 3829
+  label: 三山來禪師疏語卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 祝延增補
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 朔望祝延
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-3
+    span:
+    - body
+    - 317
+    - 317
+  label: 祝韋馱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-4
+    span:
+    - body
+    - 561
+    - 561
+  label: 祝伽藍
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-5
+    span:
+    - body
+    - 748
+    - 748
+  label: 祝祖師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-6
+    span:
+    - body
+    - 964
+    - 964
+  label: 祝監齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-7
+    span:
+    - body
+    - 1136
+    - 1136
+  label: 囑孤魂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-8
+    span:
+    - body
+    - 1380
+    - 1380
+  label: 元旦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-9
+    span:
+    - body
+    - 1538
+    - 1538
+  label: 上元
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-10
+    span:
+    - body
+    - 1712
+    - 1712
+  label: 中元
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-11
+    span:
+    - body
+    - 1892
+    - 1892
+  label: 下元
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-12
+    span:
+    - body
+    - 2070
+    - 2070
+  label: 祝佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-13
+    span:
+    - body
+    - 2223
+    - 2223
+  label: 佛成道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-14
+    span:
+    - body
+    - 2394
+    - 2394
+  label: 祝堂頭和尚誕期
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-15
+    span:
+    - body
+    - 2578
+    - 2578
+  label: 祝檀信誕期
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-16
+    span:
+    - body
+    - 2731
+    - 2731
+  label: 掛鐘板語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-17
+    span:
+    - body
+    - 2880
+    - 2880
+  label: 摘鐘板語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-18
+    span:
+    - body
+    - 2998
+    - 2998
+  label: 檀信祈禍白意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-19
+    span:
+    - body
+    - 3161
+    - 3161
+  label: 寄名禳關意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-20
+    span:
+    - body
+    - 3339
+    - 3339
+  label: 寄名脫白意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-21
+    span:
+    - body
+    - 3558
+    - 3558
+  label: 檀信諷經白意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0232_J_003-mulu-22
+    span:
+    - body
+    - 3691
+    - 3691
+  label: 檀信諷經畢白意
+  type: mulu
+  level: 1
+hash: sha256:c34c4c444c05a2bf6a78e412de3ba0271a9409d075967d69ae2a1ef2f0a11b29
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
