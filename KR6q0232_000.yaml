@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0232/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 高峰三山來禪師疏語目次卷上元旦表上元表中元表下元表慶佛誕表佛成道表結制進表解制謝表二解制意二懺期表諷華嚴經表二諷法華經表禮梁皇懺表然天燭意建盂蘭會意二建盂蘭會表諷藥師經表諷金剛經表進彌陀佛表慶觀音誕表進地藏表卷中文昌表祝聖帝表韋馱表瑜伽表修因表酬願表填還寄庫表燃天燭表祈禱平安意懺經意悔過修因意賑濟孤意利幽意彌陀會意薦師弟意禳虎意祈雨意二薦師弟意表盤米意禳蟲蝗意請水意寄名禳關意釋子修因表卷下朔望祝延增修祝韋馱增修祝伽藍增修祝祖師增修祝監齋補囑孤魂補元旦補上元補中元補下元補祝佛誕補佛成道補祝堂頭誕期補祝檀信誕期增補挂鐘板語增補摘鐘板語附補檀信祈福白意寄名禳關意寄名脫白意檀信諷經白意檀信諷經畢白意
   hash: sha256:8bd768e9f218eb5a0001f0f8b80efe91b34fa7bbcf22e2355d0c09e4cada9293
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6q0232_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 高峰三山來禪師疏語
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB439.xml
     old_id: J39nB439
-hash: sha256:edff648e9fa004df78b311a87c5d26024720ca0b58a1ca1863a44e802c2cb0c8
+hash: sha256:bc54336d079d9f04a26556768f72e38fc28e1e39755ed628af2aa2c8862b147b
